@@ -1,0 +1,16 @@
+name: UltimateGiveaways
+version: 1.0
+main: it.ymbogdan.ultimateGiveaways.UltimateGiveaway
+api-version: 1.20
+commands:
+  giveaway:
+    description: Start a giveaway
+    usage: /giveaway start
+permissions:
+  ultimate.giveaway.start:
+    default: op
+  ultimate.giveaway.reload:
+    default: op
+  ultimate.giveaway.excluded:
+    default: false
+    description: Players with this permission are automatically excluded from giveaways

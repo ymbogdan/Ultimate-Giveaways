@@ -1,0 +1,11 @@
+titles:
+  start:
+    title: "&b&lɢɪᴠᴇᴀᴡᴀʏ ꜱᴛᴀʀᴛᴇᴅ ʙʏ {starter}!"
+    subtitle: "&f{item} &7ɪɴ ᴘʀɪᴢᴇ"
+  roulette:
+    title: "&bᴇxᴛʀᴀᴄᴛɪᴏɴ ɪɴ ᴘʀᴏɢʀᴇꜱꜱ..."
+    subtitle: "&7{player}"
+  winner:
+    title: "&a&lᴡɪɴɴᴇʀ!"
+    subtitle: "&f{winner}"
+
