@@ -195,7 +195,7 @@ src/main/java/it/ymbogdan/ultimateGiveaways/
 
 Found a bug? Have a suggestion? 
 
-👉 [Open an Issue](../../issues) and let us know!
+👉 [Open an Issue](https://discord.ymbogdan.space) and let us know!
 
 Please include:
 - Minecraft version
