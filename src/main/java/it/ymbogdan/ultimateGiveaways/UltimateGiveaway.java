@@ -13,7 +13,7 @@ public final class UltimateGiveaway extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        int pluginId = 29360;
+        int pluginId = 29361;
         Metrics metrics = new Metrics(this, pluginId);
 
         metrics.addCustomChart(
